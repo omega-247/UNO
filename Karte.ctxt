@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Karte
+comment1.params=pBez
+comment1.target=void\ setBez(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getBez()
+comment3.params=pFarbe
+comment3.target=void\ setFarbe(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFarbe()
+comment5.params=pZahl
+comment5.target=void\ setZahl(int)
+comment6.params=
+comment6.target=int\ getZahl()
+numComments=7

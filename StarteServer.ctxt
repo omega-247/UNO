@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=StarteServer
+comment0.text=\r\n\r\n\ Description\r\n\r\n\ @version\ 1.0\ from\ 09.01.2025\r\n\ @author\ \r\n
+comment1.params=
+comment1.target=StarteServer()
+comment10.params=pSpGest
+comment10.target=void\ setSpStart(boolean)
+comment11.params=evt
+comment11.target=void\ bServerSchliessen1_ActionPerformed(java.awt.event.ActionEvent)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ getServerIP()
+comment5.params=
+comment5.target=void\ getServerPort()
+comment6.params=
+comment6.target=int\ getAnzSp()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=evt
+comment8.target=void\ bSpielStarten1_ActionPerformed(java.awt.event.ActionEvent)
+comment9.params=
+comment9.target=boolean\ getSpStart()
+numComments=12

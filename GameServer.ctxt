@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameServer
+comment1.params=pKarte
+comment1.target=void\ setAktK(java.lang.String)
+comment2.params=
+comment2.target=List\ getSpL()
+comment3.params=pPortNr
+comment3.target=GameServer(int)
+comment4.params=pClientIP\ pClientPort
+comment4.target=void\ processClosingConnection(java.lang.String,\ int)
+comment5.params=pClientIP\ pClientPort\ pMessage
+comment5.target=void\ processMessage(java.lang.String,\ int,\ java.lang.String)
+comment6.params=pClientIP\ pClientPort
+comment6.target=void\ processNewConnection(java.lang.String,\ int)
+comment7.params=
+comment7.target=int\ getAnzSp()
+comment8.params=pIp\ pPort
+comment8.target=Spieler\ gibSpielerIpPort(java.lang.String,\ int)
+comment9.params=pName
+comment9.target=Spieler\ getSpielerNam(java.lang.String)
+numComments=10
